@@ -44,5 +44,4 @@ function initTheme() {
       .setAttribute('disabled', true);
   }
 }
-
 initTheme();
