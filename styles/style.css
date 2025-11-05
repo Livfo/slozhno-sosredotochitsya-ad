@@ -384,7 +384,6 @@ article:last-of-type {
 }
 
 @media (width >= 1024px) {
-
   .header__theme-menu {
     width: 100%;
     display: flex;
