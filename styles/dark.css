@@ -1,14 +1,15 @@
 .page.theme_dark {
-  --navigation-text-color: #ff0070;
-  --navigation-text-color-hover: #ff007066;
+  --background-color: #000028;
+  --text-block-color: #f1b2ce;
   --header-title-text-color: #db00ff;
+  --title-text-decor-color: #000028;
   --accent-color: #ff0070;
   --block-title: #ff0070;
-  --title-text-decor-color: #000028;
-  --text-block-color: #f1b2ce;
-  --title-text-shadow-color: #ff0070;
+  --navigation-text-color: #ff0070;
+  --navigation-text-color-hover: #ff007066;
   --decorated-zone-color: #ff0070;
-  --background-color: #000028;
+  --title-text-shadow-color: #ff0070;
+  
 
   background-image: url(../images/cover-image-dark.png);
 }
