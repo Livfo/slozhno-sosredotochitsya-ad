@@ -1,1 +1,1 @@
-  http://github.com/Livfo/slozhno-sosredotochitsya-ad
+https://github.com/Livfo/slozhno-sosredotochitsya-ad
