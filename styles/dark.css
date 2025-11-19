@@ -1,4 +1,4 @@
-.page.theme_dark {
+.focus-page.theme_dark {
   --background-color: #000028;
   --text-block-color: #f1b2ce;
   --header-title-text-color: #db00ff;
@@ -14,6 +14,6 @@
   background-image: url(../images/cover-image-dark.png);
 }
 
-.theme_dark .rec-decoration {
+.theme_dark .focus-rec-decoration {
   display: flex;
 }
