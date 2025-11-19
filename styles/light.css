@@ -9,7 +9,6 @@
   --block-title: #353430;
   --title-text-shadow-color: #ff0070;
   --text-block-color: #353430;  
-
   background-color: var(--background-color);
   background-image: url(../images/cover-image-light.png);
 }
@@ -40,5 +39,4 @@
   .rec-decoration {
     display: none;
   }
-  
 }
