@@ -1,4 +1,4 @@
-.page.theme_light {
+.focus-page.theme_light {
   --navigation-text-color: #353430;
   --navigation-text-color-hover: #32312d66;
   --header-title-text-color: #ffc2e6;
@@ -14,7 +14,7 @@
   background-image: url(../images/cover-image-light.png);
 }
 
-.page.theme_light .rec-decoration {
+.focus-page.theme_light .focus-rec-decoration {
   display: none;
 }
 
@@ -32,12 +32,12 @@
     --background-color: #fff1f7;
   }
 
-  .page {
+  .focus-page {
     background-color: var(--background-color);
     background-image: url(../images/cover-image-light.png);
   }
 
-  .rec-decoration {
+  .focus-rec-decoration {
     display: none;
   }
 }
