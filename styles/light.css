@@ -8,8 +8,7 @@
   --accent-color: #ff8dcb;
   --block-title: #353430;
   --title-text-shadow-color: #ff0070;
-  --text-block-color: #353430;
-  
+  --text-block-color: #353430;  
 
   background-color: var(--background-color);
   background-image: url(../images/cover-image-light.png);
@@ -31,7 +30,6 @@
     --background-color: #fff1f7;
     --block-title: #353430;
     --text-block-color: #353430;
-  
   }
 
   .page {
@@ -42,4 +40,5 @@
   .rec-decoration {
     display: none;
   }
+  
 }
